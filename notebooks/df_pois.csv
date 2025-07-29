@@ -1,0 +1,51 @@
+name,category,category_group,latitude,longitude,distance,address,region,fsq_category_id,category_type
+Papelli,pizzeria,other,48.87167067065797,2.3569603264331818,266,"61 rue du Faubourg Saint-Martin, 75010 Paris",Île-de-France,4bf58dd8d48988d1ca941735,other
+Pâtisserie Tholoniat,dessert shop,other,48.87183423385489,2.356692553645535,284,"54-56 rue du Château d'Eau (Rue du faubourg Saint-Martin), 75010 Paris",Île-de-France,4bf58dd8d48988d1d0941735,other
+New Dehli,indian restaurant,restaurant,48.871065957955636,2.356008478131487,349,"4 Passage Brady, 75010 Paris",Île-de-France,4bf58dd8d48988d10f941735,restaurant
+BMK Paris-Bamako,african restaurant,restaurant,48.87464593409851,2.3565486073493958,416,"14 rue de la Fidélité, 75010 Paris",Île-de-France,4bf58dd8d48988d1c8941735,restaurant
+Boulangerie Julhès,bakery,other,48.87228967210551,2.3544735983836156,447,"56 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d16a941735,bakery
+Au Faubourg,bar,bar,48.87418201831521,2.3554495787760983,446,"92 rue Faubourg Saint Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d116941735,bar
+Distrito Francés Saint Martin,mexican restaurant,restaurant,48.86952041601553,2.3560472841686533,429,"10 rue du Faubourg Saint-Martin, 75010 Paris",Île-de-France,4bf58dd8d48988d1c1941735,restaurant
+Urfa Dürüm,sandwich spot,other,48.87242042483496,2.354128159020268,473,"58 rue du Faubourg Saint Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d1c5941735,other
+5 Pailles,breakfast spot,other,48.87312877407999,2.3546111723015435,453,"79 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d143941735,other
+52 Faubourg Saint-Denis,bistro,other,48.872029,2.354094,473,"52 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,52e81612bcbc57f1066b79f1,other
+Théâtre de la Porte Saint-Martin,theater,other,48.86888901091533,2.3566462164944793,448,"18 boulevard Saint-Martin, 75010 Paris",Île-de-France,4bf58dd8d48988d137941735,other
+Le Bec Fin,moroccan restaurant,restaurant,48.86973263824418,2.355933813161143,421,"15 rue du Faubourg Saint-Martin, 75010 Paris",Île-de-France,4bf58dd8d48988d1c3941735,restaurant
+Théâtre Antoine,theater,other,48.8706119793953,2.354895798816443,442,"14 boulevard de Strasbourg, 75010 Paris",Île-de-France,4bf58dd8d48988d137941735,other
+Grand Café d'Athènes,greek restaurant,restaurant,48.873117032003094,2.3547548800706863,443,"74 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d10e941735,restaurant
+Sheezan,indian restaurant,restaurant,48.873782724574205,2.3552195727825165,439,"84 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d10f941735,restaurant
+Julhès,wine store,other,48.87241464111935,2.354132190958685,473,"54 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d119951735,other
+Taka & Vermo,cheese store,other,48.871556268919456,2.353856585793851,493,"61bis rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d11e951735,other
+Dindon Dandy,cocktail bar,bar,48.87459691495572,2.3549268741448253,504,"4 Rue de Paradis, 75010 Paris",Île-de-France,4bf58dd8d48988d11e941735,bar
+Paris New York,burger joint,other,48.87190433019807,2.3538686006136857,490,"50 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d16c941735,other
+Le Syndicat,cocktail bar,bar,48.87174741403705,2.35357403755188,512,"51 rue du Faubourg-Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d11e941735,bar
+Sandwich Traditionnel Kurde,sandwich spot,other,48.87243591114155,2.354046049328059,479,"65 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d1c5941735,other
+L'Ours Bar,cocktail bar,bar,48.874604417758015,2.3544449149534543,533,"8 rue de Paradis, 75010 Paris",Île-de-France,4bf58dd8d48988d11e941735,bar
+Le Daily Syrien,syrian restaurant,restaurant,48.8719009004421,2.3536987602710724,502,"55 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,5bae9231bedf3950379f89da,restaurant
+Pizzeria Sette,pizzeria,other,48.87122105892828,2.3536532331636946,512,38 rue du Faubourg Saint Dénis,,4bf58dd8d48988d1ca941735,other
+Chez Jeannette,café,cafe,48.87155271980542,2.3535707671864237,514,"47 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d16d941735,other
+L'Appartement,lounge,other,48.869282746014136,2.355933040380478,453,"2 rue du Faubourg Saint-Martin, 75010 Paris",Île-de-France,4bf58dd8d48988d121941735,other
+Le Plomb du Cantal,auvergne restaurant,restaurant,48.86933391072176,2.355257123708725,488,"4 boulevard Saint-Denis, 75010 Paris",Île-de-France,57558b36e4b065ecebd306b8,restaurant
+Jah Jah,vegan and vegetarian restaurant,restaurant,48.873179,2.353031,566,"11 rue des Petites Écuries, 75010 Paris",Île-de-France,4bf58dd8d48988d1d3941735,restaurant
+Lucky Luciano,pizzeria,other,48.872400177277186,2.353611041827619,510,"1 cour des Petites Écuries, 75010 Paris",Île-de-France,4bf58dd8d48988d1ca941735,other
+New Morning,jazz and blues venue,other,48.87319270204638,2.3534893304006763,534,"7-9 rue des Petites Écuries, 75010 Paris",Île-de-France,4bf58dd8d48988d1e7931735,other
+Théâtre de la Renaissance,theater,other,48.86818478323441,2.3558800411862517,544,"20 Boulevard Saint-Martin, 75010 Paris",Île-de-France,4bf58dd8d48988d137941735,other
+Dumbo,burger joint,other,48.87342261662773,2.3528376832036377,587,"14 Rue Des Petites Ecuries (Rue martel), 75010 Paris",Île-de-France,4bf58dd8d48988d16c941735,other
+Pidè,turkish restaurant,restaurant,48.87322407343496,2.3533195611550464,547,"10 Rue des Petites Écuries, 75010 Paris",Île-de-France,4f04af1f2fb6e1c99f3db0bb,restaurant
+Le Daily Syrien 2,falafel restaurant,restaurant,48.873326360882714,2.3530805110931396,567,"12 rue des Petites Écuries, 75010 Paris",Île-de-France,4bf58dd8d48988d10b941735,restaurant
+Brasserie Flo,french restaurant,restaurant,48.872674070699375,2.352711642098038,579,"7 cour des Petites Écuries, 75010 Paris",Île-de-France,4bf58dd8d48988d10c941735,restaurant
+La Cevicheria Martel,seafood restaurant,restaurant,48.87431649405481,2.3533799730816964,585,"12 rue Martel, 75010 Paris",Île-de-France,4bf58dd8d48988d1ce941735,restaurant
+Le Manoir de Paris,arts and entertainment,other,48.87474887045532,2.3535702189291565,596,"18 rue de Paradis, 75010 Paris",Île-de-France,4d4b7104d754a06370d81259,other
+Nous,gluten-free restaurant,restaurant,48.87482641414629,2.3538614342139432,583,"16 rue de Paradis, 75010 Paris",Île-de-France,4c2cd86ed066bed06c3c5209,restaurant
+Bouillon Julien,french restaurant,restaurant,48.870532805117065,2.3532134700374163,561,"16 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d10c941735,restaurant
+Floyd's Bar & Grill,steakhouse,other,48.871701,2.352332,603,"11 rue d'Enghien, 75010 Paris",Île-de-France,4bf58dd8d48988d1cc941735,other
+Le Golden Pat,french restaurant,restaurant,48.8709441498175,2.352194609401063,623,"20 rue de Mazagran, 75010 Paris",Île-de-France,4bf58dd8d48988d10c941735,restaurant
+Galerie Martel,art gallery,other,48.87435811913884,2.3530610329883865,608,"17 rue martel, Paris",Île-de-France,4bf58dd8d48988d1e2931735,other
+Bon Esprit - Craft Beers & Good Spirits,beer bar,bar,48.86774273085072,2.3552429016206573,612,"310 rue Saint-Martin, 75003 Paris",Île-de-France,56aa371ce4b08b9a8d57356c,bar
+Cinco Bodega,pizzeria,other,48.8732895119324,2.352240653193803,625,"5 passage des Petites Écuries, 75010 Paris",Île-de-France,4bf58dd8d48988d1ca941735,other
+Médiathèque Françoise Sagan,library,other,48.87569535573584,2.353786278650392,644,"8 rue Léon Schwartzenberg, 75010 Paris",Île-de-France,4bf58dd8d48988d12f941735,other
+Caves Bardou,wine store,other,48.87661872631055,2.3564117407597096,597,"124 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d119951735,other
+Le Sully,bar,bar,48.87026607580653,2.3529613686757216,588,"13 rue du Faubourg Saint-Denis, 75010 Paris",Île-de-France,4bf58dd8d48988d116941735,bar
+Gibert Joseph,bookstore,other,48.86929769930191,2.3532608579148775,612,"15 bd St Denis, 75002 Paris",Île-de-France,4bf58dd8d48988d114951735,other
+La Bahianaise,brazilian restaurant,restaurant,48.876685,2.355933,622,"85 Bis boulevard de Magenta, 75010 Paris",Île-de-France,4bf58dd8d48988d16b941735,restaurant
+Farago Pintxoclub,tapas restaurant,restaurant,48.87276656818106,2.351939231157303,636,"11 cour des Petites Écuries (Passage des Petites Ecuries), 75010 Paris",Île-de-France,4bf58dd8d48988d1db931735,restaurant
